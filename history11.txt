@@ -1,0 +1,10 @@
+Tanah Kavling ;;10000000;;LLG230530;;DIJUAL TANAH KAVLING ;;2023-06-01;;admin;;tanah.jpg
+Villa Bali;;800000000;;LLG20230530;;Dijual Villa Bali,Alamat di Padang Tawang,Canggu,Bali ;;2023-06-13;;Joevita;;villa bali.jpeg
+Resort Surabaya;;500000000;;LLG20230531;;Dijual Resort Surabaya,Alamat di Jl.Citraland Utama,Dukuh Pakis,Surabaya;;2023-06-13;;admin;;Villa Resort.jpeg
+Small Home Office;;500000000;;LLG20230601;;Small Ofice Home Office cocok untuk merintis Usaha Start Up,Jl.Mayjend Sungkono,Gunung Sari,Surabaya ;;2023-06-13;;devina;;soho.jpeg
+Villa Bogor ;;200000000;;LLG20230603;;Villa Bogor untuk liburan bersama keluarga ;;2023-06-13;;admin;;villa bogor1.jpeg
+Jakarta Penthouse;;200000000;;LLG0623;;Penthouse di Jakarta menawarkan pemandangan kota yang spektakuler. Dengan berada di lantai paling atas, penghuni dapat menikmati panorama kota yang menakjubkan, termasuk pemandangan gedung pencakar langit, sungai, danau, atau laut, tergantung pada lokasi penthouse.;;2023-06-16;;devina;;bulgari.jpg
+Rumah Tangga;;100000000;;5678;;Jl. Banyu Urip, Gang X, No.4, Kecamatan Sawahan, Kota Surabaya;;2023-06-14;;admin;;rumah.jpg
+Villa Malang;;500000000;;LLG3023;;Dijual Villa dengan harga terjangkau ;;2023-06-16;;admin;;villa bali.jpeg
+Resort Bali ;;600000000;;LLG234567;;Jalan Majapahit No.18 Kuta;;2023-06-17;;admin;;bulgari.jpg
+Resort Puncak;;750000000;;LLG0987;;Jalan Karang Mas Sejahtera, Jimbaran, Bali ;;2023-06-17;;ella;;villa bogor1.jpeg
