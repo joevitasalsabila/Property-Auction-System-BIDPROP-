@@ -9,13 +9,13 @@ BIDPROP adalah sistem lelang properti berbasis digital yang dikembangkan sebagai
 - **Pencarian Properti** menggunakan *linear search* berdasarkan kriteria tertentu.
 - **Proses Lelang Transparan** yang memungkinkan pengguna melihat tawaran tertinggi secara berkala.
 
-## Teknologi yang Digunakan
+## Tools dan Algoritma yang Digunakan
 - Bahasa Pemrograman: Python
 - Struktur Data: *Linked List*
 - Algoritma Sorting: *Comb Sort*
 - Algoritma Searching: *Linear Search*
 
-## Tampilan Sistem
+## Graphical User Interface
 Berikut adalah tampilan antarmuka dari sistem Lelang Properti BIDPROP:
 
 ![Tampilan BIDPROP](userinterface1.jpg)
