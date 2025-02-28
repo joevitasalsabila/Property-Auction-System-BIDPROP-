@@ -14,3 +14,13 @@ BIDPROP adalah sistem lelang properti berbasis digital yang dikembangkan sebagai
 - Struktur Data: *Linked List*
 - Algoritma Sorting: *Comb Sort*
 - Algoritma Searching: *Linear Search*
+
+## Tampilan Sistem
+Berikut adalah tampilan antarmuka dari sistem Lelang Properti BIDPROP:
+
+![Tampilan BIDPROP](userinterface1.jpg)
+![Tampilan BIDPROP](userinterface2.jpg)
+![Tampilan BIDPROP](userinterface3.jpg)
+![Tampilan BIDPROP](userinterface4.jpg)
+![Tampilan BIDPROP](userinterface5.jpg)
+![Tampilan BIDPROP](userinterface6.jpg)
